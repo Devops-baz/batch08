@@ -1,4 +1,5 @@
 # Linux Commands 
 
 **cd**
-For changing Directory 
+
+For changing the Directory 
