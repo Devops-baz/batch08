@@ -1,1 +1,5 @@
-Hoidsa dadjasn
+# Linux Commands
+
+*cd* 
+for changing directory 
+
